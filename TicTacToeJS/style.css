@@ -19,3 +19,8 @@
   font-family: "Permanent Marker", cursive;
   text-align: center;
 }
+
+#restartBtn {
+  font-size: 35px;
+  padding: 6px;
+}
